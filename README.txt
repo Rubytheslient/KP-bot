@@ -4,5 +4,7 @@ dependencies:
     
 python pip:
     python -m pip install discord.py[voice] pytube redis
+Run bot:
+    python main.py slient|info|warn|error|debug
 
 If You Are Linux Dont Forget To Install/Build Libopus In "clib/linux" If You Got "discord.opus.OpusNotLoaded"
