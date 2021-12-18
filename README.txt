@@ -1,0 +1,1 @@
+Linux Dont Forget To Install/Build Libopus In "clib/linux" If You Got "discord.opus.OpusNotLoaded"
