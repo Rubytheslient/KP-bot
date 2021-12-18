@@ -4,6 +4,7 @@ dependencies:
     
 python pip:
     python -m pip install discord.py[voice] pytube redis
+EDIT YOUR CONFIG FILE BEFORE RUN BOT
 Run bot:
     python main.py slient|info|warn|error|debug
 
